@@ -37,9 +37,9 @@ setuptools                46.4.0                   py36_0
 six                       1.14.0                   py36_0
 sqlite                    3.31.1               h2a8f88b_1
 tensorboard               1.9.0            py36he025d50_0
-tensorflow                2.1.0           gpu_py36hfdee9c2_1
-tensorflow-base           2.1.0           gpu_py36h6e53903_0
-tensorflow-gpu            2.1.0                hf154084_0
+tensorflow                2.10.0           gpu_py36hfdee9c2_1
+tensorflow-base           2.10.0           gpu_py36h6e53903_0
+tensorflow-gpu            2.10.0                hf154084_0
 termcolor                 1.1.0                    py36_1
 tqdm                      4.46.0                   pypi_0    pypi
 vc                        14.1                 h0510ff6_4
@@ -49,3 +49,10 @@ wheel                     0.34.2                   py36_0
 wincertstore              0.2              py36h7fe50ca_0
 yaml                      0.1.7                hc54c509_2
 zlib                      1.2.11               h62dcd97_4
+
+# File requirements.txt yang benar
+streamlit
+numpy
+opencv-python
+Pillow
+matplotlib
